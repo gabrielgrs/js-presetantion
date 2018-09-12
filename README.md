@@ -1,2 +1,2 @@
 # js-presetantion
-Presentation using revealjs
+Presentation using reveal.js
